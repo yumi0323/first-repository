@@ -11,7 +11,7 @@ $result = $omikuji[$todays];
 </head>
 <body>
 <h1>今日の名言</h1>
-<p>今日のあなたのラッキーアイテムは、<span>【<?php echo $result; ?>】</span>です！</p>
+<p>今日のあなたのアイテムは、<span>【<?php echo $result; ?>】</span>です！</p>
 <p>今日も一日がんばりましょう！</p>
 </body>
 </html>

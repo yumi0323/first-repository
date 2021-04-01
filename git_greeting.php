@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Tokyo');
 $h = date("H");
 
 if ($h < 10) {
-	$greeting = "おっはー";
+	$greeting = "おっはー!";
 } elseif ($h < 18) {
 	$greeting = "こんちゃ";
 } else {
